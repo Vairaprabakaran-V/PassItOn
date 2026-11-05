@@ -1,0 +1,7 @@
+db.properties
+*.class
+out/
+bin/
+.vscode/
+.DS_Store
+Thumbs.db
